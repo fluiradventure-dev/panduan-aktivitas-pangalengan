@@ -1,0 +1,15 @@
+site_name: Panduan Aktivitas Pangalengan
+site_description: Dokumentasi praktis untuk merencanakan kegiatan alam dan perjalanan rombongan di Pangalengan.
+site_url: https://panduan-aktivitas-pangalengan.readthedocs.io/
+theme:
+  name: readthedocs
+  language: id
+nav:
+  - Beranda: index.md
+  - Persiapan Rombongan: persiapan-rombongan.md
+  - Keamanan Aktivitas: keamanan-aktivitas.md
+  - Contoh Itinerary: itinerary.md
+  - Tentang Panduan: tentang.md
+plugins:
+  - search:
+      lang: id
